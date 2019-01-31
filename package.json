@@ -1,5 +1,5 @@
 {
-  "name": "@marcozi/angular-jwt",
+  "name": "@skelpo/angular-jwt",
   "version": "3.0.0",
   "description": "JSON Web Token helper library for Angular",
   "scripts": {
